@@ -16,4 +16,4 @@
 ## 📫 Connect with me
 https://www.linkedin.com/in/akshay-krish/
 
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaykrishnansub&show_icons=true)
+![Profile Views](https://komarev.com/ghpvc/?username=akshaykrishnansub)
