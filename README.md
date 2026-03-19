@@ -1,4 +1,4 @@
-# Hi, I'm Akshay 👋
+# Hi, I'm Akshay Krishnan 👋
 
 🚀 Full Stack Developer (MERN/PERN)  
 💻 JavaScript | React | Node.js | PostgreSQL  
