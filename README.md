@@ -15,5 +15,3 @@
 
 ## 📫 Connect with me
 https://www.linkedin.com/in/akshay-krish/
-
-![Profile Views](https://komarev.com/ghpvc/?username=akshaykrishnansub)
