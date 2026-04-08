@@ -7,7 +7,7 @@
 ## 🔧 Tech Stack
 - Frontend: React, HTML, CSS, Tailwind
 - Backend: Node.js, Express
-- Database: PostgreSQL, MongoDB
+- Database: PostgreSQL, MySQL, MongoDB
 
 ## 📌 Projects
 - Blogifier – Blogging platform with auth & dashboard
