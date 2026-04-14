@@ -15,5 +15,3 @@
 
 ## 📫 Connect with me
 https://www.linkedin.com/in/akshay-krish/
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykrishnansub&layout=compact)
