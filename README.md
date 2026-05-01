@@ -33,7 +33,7 @@
 > Node.js · PostgreSQL · Express.js · Render
 - Blogging platform with search, pagination & user dashboards
 - Secure JWT authentication and REST API backend
-
+  
 ---
 
 ## 📊 GitHub Stats
