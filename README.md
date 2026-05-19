@@ -36,14 +36,6 @@
   
 ---
 
-## 📊 GitHub Stats
-
-![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshaykrishnansub&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykrishnansub&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-krish)
