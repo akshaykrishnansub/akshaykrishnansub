@@ -1,13 +1,13 @@
 # Hi, I'm Akshay Krishnan 👋
 
-🚀 Full Stack Developer | React.js · Node.js · PostgreSQL · MySQL · Docker · MongoDB· TypeScript ·Next.js
+🚀 Full Stack Developer | React.js · Node.js · PostgreSQL · MySQL · Docker · MongoDB · TypeScript · Next.js
 📍 Bengaluru, India | 💼 Immediate Joiner | Open to Full Stack & Backend Roles
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React.js · Tailwind CSS · Bootstrap · HTML5 · CSS3  
+**Frontend:** React.js · Tailwind CSS · Bootstrap · HTML5 · CSS3 · TypeScript · Next.js
 **Backend:** Node.js · Express.js · REST APIs · MVC Architecture  
 **Databases:** PostgreSQL · MySQL · MongoDB  
 **DevOps:** Docker · Git · GitHub · Railway · Vercel · Render  
