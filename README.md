@@ -7,7 +7,7 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React.js · Tailwind CSS · Bootstrap · HTML5 · CSS3 · TypeScript · Next.js
+**Frontend:** React.js · Tailwind CSS · Bootstrap · HTML5 · CSS3 · TypeScript · Next.js <br>
 **Backend:** Node.js · Express.js · REST APIs · MVC Architecture  
 **Databases:** PostgreSQL · MySQL · MongoDB  
 **DevOps:** Docker · Git · GitHub · Railway · Vercel · Render  
