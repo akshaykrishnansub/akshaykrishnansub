@@ -17,19 +17,19 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [SkillShare – Community Learning Platform](your-live-link)
+### 🔹 [SkillShare – Community Learning Platform](https://skillshare-community-platform.vercel.app/)
 > React.js · Node.js · MySQL · Docker · Railway
 - Full-stack learning platform with CMS-like module management
 - JWT auth, Docker containerization, MVC architecture
 - Live demo deployed on Railway + Vercel
 
-### 🔹 [IdeaSpark – Brainstorming Board](your-live-link)
+### 🔹 [IdeaSpark – Brainstorming Board](https://ideaspark-brainstorming-board-1x89.vercel.app/)
 > React.js · Node.js · PostgreSQL · Vercel
 - Idea management platform with drag-and-drop UI
 - Custom drag-and-drop logic with database synchronization
 - JWT auth with HTTP-only cookies
 
-### 🔹 [Blogifier – Full Stack Blog Platform](your-live-link)
+### 🔹 [Blogifier – Full Stack Blog Platform]([your-live-link](https://blogapplication-xmph.onrender.com/)
 > Node.js · PostgreSQL · Express.js · Render
 - Blogging platform with search, pagination & user dashboards
 - Secure JWT authentication and REST API backend
