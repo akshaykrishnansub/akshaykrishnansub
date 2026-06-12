@@ -29,7 +29,7 @@
 - Custom drag-and-drop logic with database synchronization
 - JWT auth with HTTP-only cookies
 
-### 🔹 [Blogifier – Full Stack Blog Platform]([your-live-link](https://blogapplication-xmph.onrender.com/)
+### 🔹 [Blogifier – Full Stack Blog Platform](https://blogapplication-xmph.onrender.com/)
 > Node.js · PostgreSQL · Express.js · Render
 - Blogging platform with search, pagination & user dashboards
 - Secure JWT authentication and REST API backend
