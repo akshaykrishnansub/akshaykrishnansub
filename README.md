@@ -17,6 +17,8 @@
 
 ## 🚀 Featured Projects
 
+### 🔹 [MediTrack - Patient Appointment & Records Portal](Ongoing)
+
 ### 🔹 [SkillShare – Community Learning Platform](https://skillshare-community-platform.vercel.app/)
 > React.js · Node.js · MySQL · Docker · Railway
 - Full-stack learning platform with CMS-like module management
